@@ -4,4 +4,6 @@
 # Steps to Execute the Project 
 1. Clone and download the project
 2. Exectute the idf.exe file on your system directly.
-3. For viewing the code visit the main.py and cityxy.py file
+3. For viewing the code visit the 
+   1.main.py  
+   2.cityxy.py file
